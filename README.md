@@ -15,7 +15,8 @@
 [Auto Mobile Management System Using Mern](https://github.com/ManvithChandra0/MernAmsProject)
 <br>
 [Online Banking Management Using JAVA EE](https://github.com/ManvithChandra0/OnlineBankingManagement)
-
+<br>
+[Real-Time-Emotion-Detection-Using-CNN](https://github.com/ManvithChandra0/Real-Time-Emotion-Detection-Using-CNN)
 <p align="left">
 </p>
 
