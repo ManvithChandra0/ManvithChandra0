@@ -12,8 +12,8 @@
 <h3 align="left">Projects:</h3>
 
 [WeatherApiProject Using SpringBoot](https://github.com/ManvithChandra0/WeatherApiProject)
-[Auto Mobile Management System Using Mern](https://github.com/ManvithChandra0/MernAmsProject)
 <br>
+[Auto Mobile Management System Using Mern](https://github.com/ManvithChandra0/MernAmsProject)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
