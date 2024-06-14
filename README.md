@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on SpringBoot, Mern Stack, ML And DL 
 
-- 📫 How to reach me **c.manvithchandra@gmail.com**
+- 📫 Reach me **c.manvithchandra@gmail.com**
 
 <h3 align="left">Projects:</h3>
 
