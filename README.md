@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manvith Chandra</h1>
 <h3 align="center">Full Stack || AI & ML|| 1 X AWS Certified || 2 X Azure Certified || Redhat Ex-183 Certified</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manvithchandra0&label=Profile%20views&color=0e75b6&style=flat" alt="manvithchandra0" /> </p>
 
 - KL University, guntur
 
