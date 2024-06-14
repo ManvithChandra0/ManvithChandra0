@@ -15,7 +15,6 @@
 <br>
 [Auto Mobile Management System Using Mern](https://github.com/ManvithChandra0/MernAmsProject)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
