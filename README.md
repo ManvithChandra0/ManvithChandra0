@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvithchandra0&label=Profile%20views&color=0e75b6&style=flat" alt="manvithchandra0" /> </p>
 
-- KL UNIVERSITY 
+- KL University, guntur
 
 - 👯 I’m looking to collaborate on SpringBoot, Mern Stack, ML And DL 
 
