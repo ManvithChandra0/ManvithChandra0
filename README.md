@@ -23,7 +23,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ManvithChandra0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/manvith-chandra-07b380223/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/h2100032079" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.codechef.com/users/manvith_32079" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
@@ -55,5 +66,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/ManvithChandra0/ManvithChandra0/output/snake.svg" alt="Snake animation" />
 
