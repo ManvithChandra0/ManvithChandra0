@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manvith Chandra</h1>
 <h3 align="center">Full Stack || AI & ML|| 1 X AWS Certified || 2 X Azure Certified || Redhat Ex-183 Certified</h3>
 
+[![](https://visitcount.itsvg.in/api?id=ManvithChandra0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - KL University, guntur
 
@@ -21,7 +22,6 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ManvithChandra0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <div align="left">
@@ -35,6 +35,9 @@
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
+
+<br>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
