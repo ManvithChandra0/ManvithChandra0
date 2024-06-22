@@ -55,3 +55,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/ManvithChandra0/ManvithChandra0/output/snake.svg" alt="Snake animation" />
+
