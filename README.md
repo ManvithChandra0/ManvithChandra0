@@ -39,6 +39,9 @@
 <br>
 <br>
 
+<h3 align="left">Skills:</h3>
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
