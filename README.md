@@ -22,7 +22,7 @@
 </p>
 
 ---
-
+<h3 align="left">Profiles:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/manvith-chandra-07b380223/" target="_blank">
@@ -36,7 +36,6 @@
   </a>
 </div>
 
-<br>
 <br>
 
 <h3 align="left">Skills:</h3>
